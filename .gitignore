@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+out/
+*.docx
+*.pptx
+!templates/*.docx
+!templates/*.pptx
